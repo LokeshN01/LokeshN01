@@ -25,6 +25,8 @@ Skills : Data Structures and Algorithms | Machine Learning | Deep Learning | Ful
 
 📫 Reach me at : lokeshnaganaboina@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokeshYadav-01)](https://github.com/LokeshYadav-01/github-readme-stats)
+
 
 
 
