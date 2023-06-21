@@ -27,6 +27,7 @@ Skills : Data Structures and Algorithms | Machine Learning | Deep Learning | Ful
 
 <a href="https://www.linkedin.com/in/lokesh-y-131969180/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Lokesh Yadav | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/lokesh_0401"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Lokesh Yadav | Instagram" width="21px"/></a>
+<br>
 
 📫 Reach me at : lokeshnaganaboina@gmail.com
 
