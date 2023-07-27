@@ -30,8 +30,6 @@ Skills : Data Structures and Algorithms | Machine Learning | Deep Learning | Ful
 
 📫 Reach me at : lokeshnaganaboina@gmail.com
 
-#[![Lokesh Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokeshYadav-01)](https://github.com/LokeshYadav-01/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshYadav-01&layout=compact)](https://github.com/LokeshYadav-01)
 
 
