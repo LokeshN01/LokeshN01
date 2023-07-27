@@ -20,8 +20,7 @@ opportunity to grow and thrive in the dynamic world of computer science.
 👯 Previously Worked as a Software Engineer Intern at Tutorials Point pvt Limited. 
    Link : https://www.tutorialspoint.com/authors/lokesh-yadav
  
-Skills : Data Structures and Algorithms | Machine Learning | Deep Learning | Full stack web development | Statistics | Data Visualization | MySQL | MongoDB | Linux Terminal |
-         Docker | Git
+Skills : Data Structures and Algorithms | Machine Learning | Deep Learning | Full stack web development | Statistics | Data Visualization | MySQL | MongoDB | Linux Terminal | Docker | Git
 
 ### 🤝 Connect with me:
 
@@ -31,7 +30,7 @@ Skills : Data Structures and Algorithms | Machine Learning | Deep Learning | Ful
 
 📫 Reach me at : lokeshnaganaboina@gmail.com
 
-[![Lokesh Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokeshYadav-01)](https://github.com/LokeshYadav-01/github-readme-stats)
+#[![Lokesh Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokeshYadav-01)](https://github.com/LokeshYadav-01/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshYadav-01&layout=compact)](https://github.com/LokeshYadav-01)
 
