@@ -47,5 +47,4 @@ const Lokesh = {
 
 📫 Reach me at : lokeshnaganaboina@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshYadav-01&layout=compact)](https://github.com/LokeshYadav-01)
 
