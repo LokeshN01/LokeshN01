@@ -30,7 +30,7 @@ const Lokesh = {
   askMeAbout: ["Web Dev", "AI and ML"],
     technologies: {
         backEnd: {
-            js: ["Node","Flask"],
+            framework: ["Node","Flask"],
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "open-cv", "php"]
