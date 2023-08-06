@@ -27,6 +27,15 @@ const Lokesh = {
   pronouns: "He" | "Him",
   code: [Javascript, Python, Java, HTML, CSS],
   tools: [React, Node, Styled-Components, Jest, Docker]
+  askMeAbout: ["Web Dev", "AI and ML"],
+    technologies: {
+        backEnd: {
+            js: ["Node","Flask"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "open-cv", "php"]
+    },
+    currentFocus: "Code and Debug",
 }
 ```
 
@@ -39,8 +48,4 @@ const Lokesh = {
 📫 Reach me at : lokeshnaganaboina@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshYadav-01&layout=compact)](https://github.com/LokeshYadav-01)
-
-
-
-
 
