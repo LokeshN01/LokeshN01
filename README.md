@@ -3,7 +3,7 @@ Hi there, I am Lokesh Yadav
 📞 Phone: +1 (864) 765 4981
 🌐 LinkedIn: https://www.linkedin.com/in/lokesh-y-131969180/
 
-##About me
+#About me
 
 I am Lokesh Naganaboina, currently a masters student who is passionate about latest technologies in Computer Science field. I have experience working with a variety of 
 programming languages and Technologies.I am a dedicated Python developer with a strong focus on data structures, data science, and web development.
