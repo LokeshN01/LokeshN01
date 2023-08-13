@@ -1,7 +1,7 @@
 Hi there, I am Lokesh Yadav
 
 📞 Phone: +1 (864) 765 4981
-🌐 LinkedIn: https://www.linkedin.com/in/lokesh-y-131969180/
+🌐 LinkedIn: www.linkedin.com/in/lokeshyadav0104
 
 #About me
 
