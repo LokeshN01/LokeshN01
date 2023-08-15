@@ -23,14 +23,14 @@ As an aspiring computer science student, I am eager to enhance my skills and kno
 const Lokesh = {
   pronouns: "He" | "Him",
   code: [Javascript, Python, Java, HTML, CSS],
-  tools: [React, Node, Styled-Components, Jest, Docker]
+  tools: [React, Node, Styled-Components, Docker]
   askMeAbout: ["Web Dev", "AI and ML"],
     technologies: {
         backEnd: {
             framework: ["Node","Flask"],
         },
         databases: ["MongoDB", "MySql", "sqlite"],
-        misc: ["Firebase", "Open-cv", "PHP"]
+        misc: ["Open-cv", "PHP"]
     },
     currentFocus: "Code and Debug",
 }
