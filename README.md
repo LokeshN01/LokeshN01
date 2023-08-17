@@ -5,7 +5,7 @@ Hi there, I am Lokesh Yadav
 
 #About me
 
-I am Lokesh Naganaboina, currently a masters student who is passionate about latest technologies in Computer Science field. I have experience working with a variety of 
+I am Lokesh Naganaboina, currently a Master's student who is passionate about latest technologies in Computer Science field. I have experience working with a variety of 
 programming languages and Technologies.I am a dedicated Python developer with a strong focus on data structures, data science, and web development.
 
 As an aspiring computer science student, I am eager to enhance my skills and knowledge in the field. Given the opportunity, I am committed to continuous learning, keeping up with the latest technologies, and expanding my expertise. I am ready to embrace challenges, contribute to innovative projects, and collaborate with a team to drive meaningful impact. I am passionate about honing my programming skills, exploring new domains, and leveraging technology to solve real-world problems. I am excited to seize every opportunity to grow and thrive in the dynamic world of computer science.
