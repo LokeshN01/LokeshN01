@@ -30,7 +30,7 @@ const Lokesh = {
             framework: ["Node","Flask"],
         },
         databases: ["MongoDB", "MySql", "sqlite"],
-        misc: ["Open-cv", "PHP"]
+        misc: ["Open-cv", "PHP","Streamlit"]
     },
     currentFocus: "Code and Debug",
 }
