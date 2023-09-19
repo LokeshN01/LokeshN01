@@ -10,7 +10,7 @@ programming languages and Technologies.I am a dedicated Python developer with a 
 
 As an aspiring computer science student, I am eager to enhance my skills and knowledge in the field. Given the opportunity, I am committed to continuous learning, keeping up with the latest technologies, and expanding my expertise. I am ready to embrace challenges, contribute to innovative projects, and collaborate with a team to drive meaningful impact. I am passionate about honing my programming skills, exploring new domains, and leveraging technology to solve real-world problems. I am excited to seize every opportunity to grow and thrive in the dynamic world of computer science.
 
-🔭 I've completed my Bachelors in Information Technology from Vasavi College of Engineering
+🔭 I've completed my Bachelors in Information Technology from Vasavi College of Engineering!!
 
 🔭 I'm really passionated about Technolgies : Full stack web development, Artificial Intelligence, Machine Learning and Deep Learning.
 
