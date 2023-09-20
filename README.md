@@ -13,19 +13,23 @@ I'm Lokesh Naganaboina, a Master's student at Clemson University, diving deep in
 
 🌱 **Growth:** I believe in continuous learning and am always on the lookout for the next exciting project or opportunity to collaborate.
 
-#### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+#### 👨🏻‍💻 Languages and Tools:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
+
 
 ## Connect with Me 🤝
 <a href="https://www.linkedin.com/in/lokeshyadav0104"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Lokesh Yadav | LinkedIn" width="21px"/></a>
