@@ -29,7 +29,7 @@ const Lokesh = {
     misc: ["Open-cv", "PHP", "Streamlit"]
   },
   currentFocus: "Exploring the intersection of Web Development and Data Science",
-}
+} ```
 
 Connect with Me 🤝
 <a href="https://www.linkedin.com/in/lokeshyadav0104"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Lokesh Yadav | LinkedIn" width="21px"/></a>
