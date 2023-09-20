@@ -1,47 +1,41 @@
-Hi there, I am Lokesh Yadav
+# Hi there, I am Lokesh Yadav 👋
 
-📞 Phone: +1 (864) 765 4981
-🌐 LinkedIn: www.linkedin.com/in/lokeshyadav0104
+📞 **Phone:**  +1 (864) 765 4981
+🌐 **LinkedIn:** [Lokesh Yadav](https://www.linkedin.com/in/lokeshyadav0104)
 
-#About me
+## About Me 🚀
 
-I am Lokesh Naganaboina, currently a Master's student who is passionate about latest technologies in Computer Science field. I have experience working with a variety of 
-programming languages and Technologies.I am a dedicated Python developer with a strong focus on data structures, data science, and web development.
+I'm Lokesh Naganaboina, a Master's student at Clemson University, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of web development and data science.
 
-As an aspiring computer science student, I am eager to enhance my skills and knowledge in the field. Given the opportunity, I am committed to continuous learning, keeping up with the latest technologies, and expanding my expertise. I am ready to embrace challenges, contribute to innovative projects, and collaborate with a team to drive meaningful impact. I am passionate about honing my programming skills, exploring new domains, and leveraging technology to solve real-world problems. I am excited to seize every opportunity to grow and thrive in the dynamic world of computer science.
+🎓 **Education:** Completed my Bachelor's in Information Technology from Vasavi College of Engineering and currently pursuing my M.S. in Computer Science.
 
-🔭 I've completed my Bachelors in Information Technology from Vasavi College of Engineering!!
+🔧 **Skills:** With a strong foundation in Python, I've ventured into full-stack web development, machine learning, and artificial intelligence. My experiences range from publishing technical articles at Tutorials Point to designing web portals during internships. Check out my contributions [here](https://www.tutorialspoint.com/authors/lokesh-yadav).
 
-🔭 I'm really passionated about Technolgies : Full stack web development, Artificial Intelligence, Machine Learning and Deep Learning.
+🌱 **Growth:** I believe in continuous learning and am always on the lookout for the next exciting project or opportunity to collaborate.
 
-👯 Previously Worked as a Software Engineer Intern at Tutorials Point pvt Limited. 
-   Link : https://www.tutorialspoint.com/authors/lokesh-yadav
- 
-### <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="200" width="200"> A little more about me...  
+## Tech Stack 💻
 
 ```javascript
 const Lokesh = {
   pronouns: "He" | "Him",
-  code: [Javascript, Python, Java, HTML, CSS],
-  tools: [React, Node, Styled-Components, Docker]
-  askMeAbout: ["Web Dev", "AI and ML"],
-    technologies: {
-        backEnd: {
-            framework: ["Node","Flask"],
-        },
-        databases: ["MongoDB", "MySql", "sqlite"],
-        misc: ["Open-cv", "PHP","Streamlit"]
+  languages: ["Javascript", "Python", "Java", "HTML", "CSS"],
+  tools: ["React", "Node", "Docker", "Styled-Components"],
+  askMeAbout: ["Web Development", "AI & ML", "Data Science"],
+  technologies: {
+    backEnd: {
+      frameworks: ["Node", "Flask"],
     },
-    currentFocus: "Code and Debug",
+    databases: ["MongoDB", "MySql", "sqlite"],
+    misc: ["Open-cv", "PHP", "Streamlit"]
+  },
+  currentFocus: "Exploring the intersection of Web Development and Data Science",
 }
-```
 
-### 🤝 Connect with me:
-
+Connect with Me 🤝
 <a href="https://www.linkedin.com/in/lokeshyadav0104"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Lokesh Yadav | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/lokesh_0401"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Lokesh Yadav | Instagram" width="21px"/></a>
 <br>
 
-📫 Reach me at : lokeshnaganaboina@gmail.com
+📫 Reach Out: lokeshnaganaboina@gmail.com
 
-
+🔗 GitHub Projects: Dive into my GitHub repositories to explore my projects and feel free to collaborate!
