@@ -32,7 +32,7 @@ I'm Lokesh Naganaboina, a Master's student at Clemson University, diving deep in
 
 ## Connect with Me 🤝
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokeshyadav0104"><img src="https://img.shields.io/badge/-LokeshYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshyadav0104" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lokeshnaganaboina/"><img src="https://img.shields.io/badge/-LokeshNaganaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshnaganaboina/" alt="LinkedIn"></a>
   <a href="https://instagram.com/lokesh_0401"><img src="https://img.shields.io/badge/-@lokesh_0401-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/lokesh_0401" alt="Instagram"></a>
 </p>
 <br>
