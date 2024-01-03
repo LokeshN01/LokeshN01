@@ -1,10 +1,8 @@
 # Hi there, I am Lokesh Yadav 👋
 
-📞 **Phone:**  +1 (864) 765 4981
-
 ## About Me 🚀
 
-I'm Lokesh Naganaboina, a Master's student at Clemson University, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of web development and data science.
+I'm Lokesh Naganaboina, a Graduate Student in Computer Science from Clemson University, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of web development and data science.
 
 🎓 **Education:** Completed my Bachelor's in Information Technology from Vasavi College of Engineering and currently pursuing my M.S. in Computer Science.
 
