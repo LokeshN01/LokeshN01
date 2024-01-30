@@ -13,6 +13,7 @@
 #### 👨🏻‍💻 Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"></code>
