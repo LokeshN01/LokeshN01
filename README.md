@@ -30,6 +30,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png" alt="Heroku"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux Terminal"></code>
