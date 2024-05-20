@@ -35,6 +35,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux Terminal"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" alt="Figma"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png" alt="Gradle"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="IntelliJ IDEA"></code>
 
 
 <h2 align="center">Leetcode and GFG Stats ✌️</h2>
