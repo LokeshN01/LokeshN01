@@ -1,4 +1,4 @@
-# Hi there, I am Lokesh Naganaboina 👋
+# Hi there, I am Lokesh 👋
 
 ## About Me 🚀
 
