@@ -2,11 +2,11 @@
 
 ## About Me 🚀
 
-🚀 I'm Lokesh Naganaboina, a Graduate Student in Computer Science from Clemson University, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of web development and data science.
+🚀 I'm Lokesh Naganaboina, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of web development and data science.
 
 🎓 **Education:** Completed my Bachelor's in Information Technology from Vasavi College of Engineering and I have completed my Masters degree from Clemson University in Computer Science.
 
-🔧 **Skills:** With a strong foundation in Python, I've ventured into full-stack web development, machine learning, and artificial intelligence. My experiences range from publishing technical articles at Tutorials Point to designing web portals during internships. Check out my contributions [here](https://www.tutorialspoint.com/authors/lokesh-yadav).
+🔧 **Skills:** With a strong foundation in Python, I've ventured into full-stack web development, machine learning, and artificial intelligence. My experiences range from publishing technical articles at Tutorials Point to designing web portals during internships. 
 
 🌱 **Growth:** I believe in continuous learning and am always on the lookout for the next exciting project or opportunity to collaborate.
 
@@ -59,7 +59,6 @@
 ## Connect with Me 🤝
 <p align="center">
   <a href="www.linkedin.com/in/lokesh-naganaboina"><img src="https://img.shields.io/badge/-LokeshNaganaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshnaganaboina/" alt="LinkedIn"></a>
-  <a href="https://instagram.com/lokesh_naganaboina"><img src="https://img.shields.io/badge/-@lokesh_naganaboina-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/lokesh_naganaboina" alt="Instagram"></a>
 </p>
 
 <br>
