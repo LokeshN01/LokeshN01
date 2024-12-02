@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-🚀 I'm Lokesh Naganaboina, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of Web Development and Data Science.
+🚀 I'm Lokesh, diving deep into the realms of Computer Science. My passion lies in harnessing the power of code to solve real-world problems, especially in the domains of Web Development and Data Science.
 
 🎓 **Education:** Completed my Bachelor's in Information Technology from Vasavi College of Engineering and I've completed my Masters degree from Clemson University in Computer Science.
 
