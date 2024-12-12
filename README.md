@@ -63,6 +63,4 @@
 
 <br>
 
-📫 Reach me out @ lokeshnaganaboina@gmail.com
-
 🔗 GitHub Projects: Dive into my GitHub repositories to explore my projects and feel free to collaborate!
