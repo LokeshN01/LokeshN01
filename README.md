@@ -58,7 +58,6 @@
 
 ## Connect with Me 🤝
 <p align="center">
-  <a href="www.linkedin.com/in/lokesh-naganaboina"><img src="https://img.shields.io/badge/-LokeshNaganaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshnaganaboina/" alt="LinkedIn"></a>
 </p>
 
 <br>
